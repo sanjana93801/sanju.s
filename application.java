@@ -5,3 +5,5 @@ Introducing Files, the ultimate file manager app for Windows. With its sleek and
 sgdiewut9oue
 skf9erut9
 
+the vivek has making changes in the file on 24-mar-2022
+Files also offers advanced features such as file tagging for easy organization, support for QuickLook for previewing files without opening them, and the ability
